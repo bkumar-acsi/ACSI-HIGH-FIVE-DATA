@@ -15,9 +15,9 @@
           "id": "ms2",
           "name": "Kshitij Babar",
           "group": "Group A",
-          "wins": 2,
+          "wins": 0,
           "losses": 0,
-          "points": 4
+          "points": 0
         },
         {
           "id": "ms3",
@@ -458,5 +458,5 @@
       ]
     }
   },
-  "timestamp": "2026-08-18T20:54:17.807Z"
+  "timestamp": "2026-08-18T20:54:23.602Z"
 }
