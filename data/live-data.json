@@ -1,16 +1,14 @@
 {
   "liveScore": {
     "category": "mens_singles",
-    "team1Name": "Sachin Sonone",
-    "team2Name": "Sanket Pande",
+    "team1Name": "",
+    "team2Name": "",
     "team1Points": 0,
     "team2Points": 0,
-    "team1Sets": 1,
+    "team1Sets": 0,
     "team2Sets": 0,
-    "setHistory": [
-      "19-8"
-    ],
+    "setHistory": [],
     "matchFormat": "3",
-    "timestamp": "2026-08-18T21:24:48.827Z"
+    "timestamp": "2026-08-18T21:26:13.583Z"
   }
 }
