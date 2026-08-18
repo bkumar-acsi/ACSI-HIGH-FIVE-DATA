@@ -63,9 +63,9 @@
           "id": "ms8",
           "name": "Brajesh Kumar",
           "group": "Group B",
-          "wins": 1,
+          "wins": 0,
           "losses": 0,
-          "points": 2
+          "points": 0
         },
         {
           "id": "ms9",
@@ -458,5 +458,5 @@
       ]
     }
   },
-  "timestamp": "2026-08-18T20:56:11.778Z"
+  "timestamp": "2026-08-18T21:02:50.440Z"
 }
