@@ -4,14 +4,15 @@
     "category": "mens_singles",
     "team1Name": "Brajesh Kumar",
     "team2Name": "Akshay Prabhune",
-    "team1Points": 11,
-    "team2Points": 9,
-    "team1Sets": 1,
+    "team1Points": 0,
+    "team2Points": 0,
+    "team1Sets": 2,
     "team2Sets": 0,
     "setHistory": [
-      "11-8"
+      "11-8",
+      "11-9"
     ],
     "matchFormat": "3",
-    "timestamp": "2026-08-18T20:55:40.826Z"
+    "timestamp": "2026-08-18T20:55:41.025Z"
   }
 }
