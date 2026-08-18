@@ -1,6 +1,6 @@
 {
   "liveScore": {
-    "isActive": false,
+    "isActive": true,
     "category": "mens_singles",
     "team1Name": "",
     "team2Name": "",
@@ -10,6 +10,6 @@
     "team2Sets": 0,
     "setHistory": [],
     "matchFormat": "3",
-    "timestamp": "2026-08-18T20:56:11.466Z"
+    "timestamp": "2026-08-18T21:01:14.863Z"
   }
 }
