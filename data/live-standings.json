@@ -8,16 +8,16 @@
           "name": "Aniket Ghodake",
           "group": "Group A",
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "points": 0
         },
         {
           "id": "ms2",
           "name": "Kshitij Babar",
           "group": "Group A",
-          "wins": 1,
+          "wins": 2,
           "losses": 0,
-          "points": 2
+          "points": 4
         },
         {
           "id": "ms3",
@@ -458,5 +458,5 @@
       ]
     }
   },
-  "timestamp": "2026-08-18T19:57:25.229Z"
+  "timestamp": "2026-08-18T20:33:54.294Z"
 }
