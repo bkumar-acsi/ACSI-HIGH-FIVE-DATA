@@ -1,0 +1,9 @@
+{
+  "tournament": {
+    "mens_singles": {"id": "ms", "title": "Men's Singles", "teams": [], "matches": []},
+    "womens_singles": {"id": "ws", "title": "Women's Singles", "teams": [], "matches": []},
+    "mens_doubles": {"id": "md", "title": "Men's Doubles", "teams": [], "matches": []},
+    "womens_doubles": {"id": "wd", "title": "Women's Doubles", "teams": [], "matches": []},
+    "mixed_doubles": {"id": "mix", "title": "Mixed Doubles", "teams": [], "matches": []}
+  }
+}
