@@ -3,12 +3,14 @@
     "category": "mens_singles",
     "team1Name": "Sachin Sonone",
     "team2Name": "Sanket Pande",
-    "team1Points": 19,
-    "team2Points": 8,
-    "team1Sets": 0,
+    "team1Points": 0,
+    "team2Points": 0,
+    "team1Sets": 1,
     "team2Sets": 0,
-    "setHistory": [],
+    "setHistory": [
+      "19-8"
+    ],
     "matchFormat": "3",
-    "timestamp": "2026-08-18T21:24:00.150Z"
+    "timestamp": "2026-08-18T21:24:48.827Z"
   }
 }
