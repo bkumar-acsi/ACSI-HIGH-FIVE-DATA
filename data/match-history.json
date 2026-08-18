@@ -1,4 +1,40 @@
 {
-  "matchHistory": {},
-  "timestamp": ""
+  "matchHistory": {
+    "mens_singles": {
+      "title": "Men Singles",
+      "matches": [
+        {
+          "id": "m_1787085233985",
+          "team1Name": "Kshitij Babar",
+          "team2Name": "Aniket Ghodake",
+          "team1Id": "ms2",
+          "team2Id": "ms1",
+          "sets1": 1,
+          "sets2": 0,
+          "setHistory": [
+            "11-7"
+          ],
+          "timestamp": "8/19/2026, 2:03:53 AM",
+          "category": "mens_singles"
+        }
+      ]
+    },
+    "mens_doubles": {
+      "title": "Men Doubles",
+      "matches": []
+    },
+    "womens_singles": {
+      "title": "Women Singles",
+      "matches": []
+    },
+    "womens_doubles": {
+      "title": "Women Doubles",
+      "matches": []
+    },
+    "mix_doubles": {
+      "title": "Mixed Doubles",
+      "matches": []
+    }
+  },
+  "timestamp": "2026-08-18T20:33:56.174Z"
 }
