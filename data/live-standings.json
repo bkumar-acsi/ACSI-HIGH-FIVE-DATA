@@ -96,7 +96,7 @@
           "name": "Akshay Prabhune",
           "group": "Group C",
           "wins": 0,
-          "losses": 1,
+          "losses": 0,
           "points": 0
         },
         {
@@ -458,5 +458,5 @@
       ]
     }
   },
-  "timestamp": "2026-08-18T21:02:50.440Z"
+  "timestamp": "2026-08-18T21:02:58.026Z"
 }
