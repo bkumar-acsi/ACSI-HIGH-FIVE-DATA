@@ -5,11 +5,11 @@
     "team1Name": "",
     "team2Name": "",
     "team1Points": 0,
-    "team2Points": 7,
+    "team2Points": 0,
     "team1Sets": 0,
     "team2Sets": 0,
     "setHistory": [],
     "matchFormat": "3",
-    "timestamp": "2026-08-18T21:06:45.486Z"
+    "timestamp": "2026-08-18T21:06:46.534Z"
   }
 }
